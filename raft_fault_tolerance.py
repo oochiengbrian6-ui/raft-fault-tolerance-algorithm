@@ -1,4 +1,4 @@
-"""
+
 Raft Consensus Algorithm - Fault Tolerance Implementation
 Author: Brian Ochieng
 Reg No: ENE221-0173/21
